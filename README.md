@@ -12,6 +12,8 @@ Ho, Ten, Phai, trạng thái của thẻ, con trỏ): con trỏ sẽ trỏ đế
 - Danh sách MUONTRA : danh sách liên kết đơn ( MASACH, NgayMuon, NgayTra, trạng
 thái): trạng thái =0 là sách đang mượn (chưa trả), =1 là đã trả, =2 : làm mất sách
 Chương trình có các chức năng sau:
+
+
 a. Nhập thẻ độc giả: thêm / xóa / hiệu chỉnh thông tin thẻ độc giả. Mã thẻ độc giả được
 chương trình tự động lấy ngẫu nhiên và không trùng với các mã thẻ độc giả cũ; Phái chỉ nhận
 ‘Nam’ hoặc ‘Nữ’; trạng thái thẻ = 0 khi thẻ bị khóa, trạng thái thẻ = 1 khi thẻ đang hoạt
